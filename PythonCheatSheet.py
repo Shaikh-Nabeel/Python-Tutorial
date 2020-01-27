@@ -590,3 +590,30 @@ we can add some char in args kwargs as shown below
 # Candidates = ['Nabeel', 'Sameer', 'Aman']
 # ability = {"Nabeel": "Programmer", "Sameer": "Astrologer", "Nirbhay": "Programmer"}
 # funargs(normal, *Candidates, **ability)
+
+
+# import sklearn   this module is use for machine learning
+
+# go to StringFormat file to know about String Formatting
+
+# go to args&kwargs file to know about args and kwargs
+
+# go to EnumerateFunc file to know about Enumerate function
+
+# go to ImporTWork file to know about import (function) classes
+
+# go to JoinFunc to know about joining function
+
+# go to MapFilterReduce file to know about it
+
+""" we can use the function like this. when you will pass print function(which is inbuilt) it will take place of funct
+and this function will print the statement given in funct"""
+
+# def excuter(funct):
+#     funct("This is function")
+#
+# excuter(print)
+
+# starting of oops
+ 
+
